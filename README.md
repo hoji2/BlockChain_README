@@ -13,7 +13,7 @@
 
 # Bloction
 
-블록체인 기반 P2P 경매 시스템
+블록체인 기반 경매 참여 이력을 기록하여 투명한 경매 서비스 제공
 
 ## 1) 지갑생성
 
@@ -29,6 +29,8 @@
 
 작품의 소유자는  경매등록 시 최저가, 시작 및 종료일자등을 입력하여 경매를 생성할 수 있다. 경매를 블록체인 원장에 등록하는 과정에서 **수수료**가 발생한다.
 
+<img src="https://user-images.githubusercontent.com/46040830/69299045-ea8a3880-0c52-11ea-9596-105894973108.gif"/>
+
 ## 4)입찰 
 
 입찰자는 이더리움을 충전하고 경매에 올라온 작품을 입찰할 수 있다. 최초 입찰 이후로 해당 작품에서 **최고 입찰자**와 **최고 입찰금액**을 가시적으로 확인할 수 있다.
@@ -37,7 +39,7 @@
 
 ## 5)낙찰 및 경매종료
 
-경매를 생성한 사용자는 경매 마감시간 내 경매종료가 가능하며, 경매종료시 낙찰금을 회수한다. 최고입찰자 이외에 입찰자들은 **경매가 종료되는 시점**에서 자신의 입찰금을 회수받는다. 
+경매를 생성한 사용자는 경매 마감시간 내 경매종료가 가능하며, 경매종료시 낙찰금을 회수한다. 최고입찰자 이외에 입찰자들은 **경매종료 후 입찰금 반환을 통헤** 자신의 입찰금을 회수받는다. 
 
 - 경매생성자
 
@@ -63,34 +65,20 @@ npm install
 npm run serve
 ```
 
-## Run tests
-
-```sh
-npm run  test
-```
-
 ## Author
-👤 **Hojin**
 
-* Website: Hojin
-* Github: [@hoji2](https://github.com/hoji2)
+👤 **박해제**
+* Solidity 개발 Back-End 담당 
 
+👤 **오명현**
+* DB 설계 및 Front-End 담당
 
-## 🤝 Contributing
+👤 **오현지**
+* DB 설계 및 Front-End 담당
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/hoji2/BlockChain_README).
+👤 **이호진**
+* Fabric Network 구축 및 Back-End 담당
 
-## Show your support
+👤 **정표용**
+* Docker 환경구축 및 Back-End 담당
 
-Give a ⭐️ if this project helped you!
-
-<a href="https://www.patreon.com/4">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
-## 📝 License
-
-This project is [5](https://github.com/hoji2/BlockChain_README) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
