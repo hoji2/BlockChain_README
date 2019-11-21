@@ -13,9 +13,6 @@
 
 ### ✨ [Demo](https://github.com/hoji2/BlockChain_README)
 
-<img src="https://user-images.githubusercontent.com/45934061/68116051-39d72600-ff3d-11e9-9b13-2553fb01f567.gif">
-
-
 # Bloction
 
 블록체인 기반 P2P 경매 시스템
