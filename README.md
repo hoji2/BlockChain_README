@@ -95,13 +95,13 @@ run server
 ```
 
 - Ethereum
-  - 이더리음 노드간 peer연결을 위한 Shell script 실행
+  - 이더리음 노드간 peer연결을 담당하는 Shell script 실행
 ```sh
 ./start.sh
 ```
 
 - Fabric Network
-  - Docker-Compose를 활용한 kafka, orderer, CA등 yaml파일 실행
+  - Docker-Compose를 활용한 kafka, orderer, CA 서버 구동
 
 ## Author
 
