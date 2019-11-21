@@ -120,5 +120,5 @@ run server
 * Fabric Network 구축 및 BlockChain 담당
 
 👤 **정표용**
-* Docker 환경구축, Ethereum  BlockChain 담당
+* Docker 환경구축, Ethereum 및 BlockChain 담당
 
