@@ -74,7 +74,7 @@
 - Git
 - Jira 
 
-### service
+### Service
 - AWS EC2
 
 ## Install
