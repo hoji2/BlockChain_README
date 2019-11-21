@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to blockchain-sub3 👋</h1>
+<h1 align="center">Welcome to Bloction 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/hoji2/BlockChain_README" target="_blank">
@@ -26,6 +26,7 @@
 작품을 등록할 사용자는 작품의 이름, 작품설명, 공개 여부등을 설정하여 요청하면 관련 작품 내역은 데이터베이스에 등록되며, 경매가 진행되는 동안 해당 작품의 **소유내역**을 상세보기를 통해 확인할 수 있다.
 
 <img src="https://user-images.githubusercontent.com/46040830/69293995-f3c4d680-0c4d-11ea-9333-8cd5781951f4.gif"/>
+
 ## 3)경매등록
 
 작품의 소유자는  경매등록 시 최저가, 시작 및 종료일자등을 입력하여 경매를 생성할 수 있다. 경매를 블록체인 원장에 등록하는 과정에서 **수수료**가 발생한다.
