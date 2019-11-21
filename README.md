@@ -48,7 +48,7 @@
 
 - 최종 낙찰자 및 기타 입찰자
 
-  -> 최종 낙찰자(bider02)는 자신의 입찰금을 차감하고 입찰 실패 사용자(bidder01)는 입찰금을 회수받는다.
+  -> 최종 낙찰자(bidder02)는 자신의 입찰금을 차감하고 입찰 실패 사용자(bidder01)는 입찰금을 회수받는다.
 
 <img src="https://user-images.githubusercontent.com/46040830/69298747-22dd4700-0c52-11ea-935c-16b3b3ab0105.gif"/>
 
