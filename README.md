@@ -52,22 +52,27 @@
 
 ## Requirements
 
-# Front-End
-Vue.js, Vue Router
-HTML, CSS, Javascript
+### Front-End
+- Vue.js
+- Vue Router
+- Vuetify
+- HTML
+- CSS
+- Javascript
 
-# Back-End
-Spring Framework
-MySQL
+### Back-End
+- Spring Framework
+- MySQL
 
-# BlockChain
-Ethereum
-Docker
-HyperLedger Fabric
-Solidity
+### BlockChain
+- Ethereum
+- Docker
+- HyperLedger Fabric
+- Solidity
 
-# Management Tools
-Git, Jira 
+### Management Tools
+- Git
+- Jira 
 
 
 ## Install
