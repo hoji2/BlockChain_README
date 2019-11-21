@@ -83,8 +83,13 @@ npm install
 
 ## Usage
 
+- Front
 ```sh
 npm run serve
+```
+- Back
+```sh
+run server
 ```
 
 ## Author
