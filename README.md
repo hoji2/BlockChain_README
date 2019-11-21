@@ -74,6 +74,8 @@
 - Git
 - Jira 
 
+### service
+- AWS EC2
 
 ## Install
 
@@ -92,20 +94,29 @@ npm run serve
 run server
 ```
 
+- Ethereum
+  - 이더리음 노드간 peer연결을 위한 Shell script 실행
+```sh
+./start.sh
+```
+
+- Fabric Network
+  - Docker-Compose를 활용한 kafka, orderer, CA등 yaml파일 실행
+
 ## Author
 
 👤 **박해제**
-* Solidity, Ethereum 등 BlockChain 담당 
+* Solidity, Ethereum 및 BlockChain 담당 
 
 👤 **오명현**
 * DB 설계 및 Back-End 담당
 
 👤 **오현지**
-* DB 설계 등 Front-End 담당
+* DB 설계 및 Front-End 담당
 
 👤 **이호진**
-* Fabric Network 구축 등 BlockChain 담당
+* Fabric Network 구축 및 BlockChain 담당
 
 👤 **정표용**
-* Docker 환경구축, Ethereum 등 BlockChain 담당
+* Docker 환경구축, Ethereum  BlockChain 담당
 
