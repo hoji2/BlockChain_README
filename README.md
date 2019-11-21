@@ -11,8 +11,6 @@
 
 > 블록체인 기반 P2P 경매시스템
 
-### ✨ [Demo](https://github.com/hoji2/BlockChain_README)
-
 # Bloction
 
 블록체인 기반 P2P 경매 시스템
@@ -45,7 +43,9 @@
 
 <img src="https://user-images.githubusercontent.com/46040830/69298066-21128400-0c50-11ea-8734-1e89de743bbc.gif"/>
 
-- 최종 낙찰자 및 기타 입찰자 : 최종 낙찰자는 자신의 입찰금을 차감하고 기타 입찰자는 입찰금을 회수받는다.
+- 최종 낙찰자 및 기타 입찰자 : 최종 낙찰자(bider02)는 자신의 입찰금을 차감하고 입찰 실패 사용자(bidder01)는 입찰금을 회수받는다.
+
+<img src="https://user-images.githubusercontent.com/46040830/69298747-22dd4700-0c52-11ea-935c-16b3b3ab0105.gif"/>
 
 ## Install
 
