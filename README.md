@@ -53,6 +53,26 @@
 
 <img src="https://user-images.githubusercontent.com/46040830/69298747-22dd4700-0c52-11ea-935c-16b3b3ab0105.gif"/>
 
+## Requirements
+
+# Front-End
+Vue.js, Vue Router
+HTML, CSS, Javascript
+
+# Back-End
+Spring Framework
+MySQL
+
+# BlockChain
+Ethereum
+Docker
+HyperLedger Fabric
+Solidity
+
+# Management Tools
+Git, Jira 
+
+
 ## Install
 
 ```sh
@@ -68,17 +88,17 @@ npm run serve
 ## Author
 
 👤 **박해제**
-* Solidity 개발 Back-End 담당 
+* Solidity, Ethereum 등 BlockChain 담당 
 
 👤 **오명현**
-* DB 설계 및 Front-End 담당
+* DB 설계 및 Back-End 담당
 
 👤 **오현지**
-* DB 설계 및 Front-End 담당
+* DB 설계 등 Front-End 담당
 
 👤 **이호진**
-* Fabric Network 구축 및 Back-End 담당
+* Fabric Network 구축 등 BlockChain 담당
 
 👤 **정표용**
-* Docker 환경구축 및 Back-End 담당
+* Docker 환경구축, Ethereum 등 BlockChain 담당
 
