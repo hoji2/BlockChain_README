@@ -105,6 +105,10 @@ run server
 - Fabric Network
   - Docker-Compose를 활용한 kafka, orderer, CA 서버 구동
 
+## 참고사항
+
+- 프로젝트 코드는 보안정책에 따라 private하게 관리
+
 ## Author
 
 👤 **박해제**
